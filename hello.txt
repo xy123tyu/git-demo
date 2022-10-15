@@ -3,6 +3,6 @@ hello! mast
 hello! mast
 hello! mast
 hello! mast
-hello! mast master.test
+hello! mast master test
 hello! mast
 
